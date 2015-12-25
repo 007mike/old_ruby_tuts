@@ -1,0 +1,4 @@
+Adding a line to file
+Here is some textHere is some text
+some text
+some textAdding another line wow
